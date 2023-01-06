@@ -147,7 +147,7 @@ class Main:
 				_ = random.randint(x,xx)
 				__ = idx
 				self.id.append(__+str(_))
-			os.system('xdg-open https://www.facebook.com/rdxbot11?mibextid=ZbWKwL)
+			os.system('xdg-open https://www.facebook.com/rdxbot11)
 			os.system('clear')
 			print(logo) 
 			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
